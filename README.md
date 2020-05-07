@@ -7,7 +7,7 @@ This data was used for four FiveThirtyEight stories: Uber Is Serving New York’
 
 In the folder uber-trip-data, there are six files of raw data on Uber pickups in New York City from April to September 2014. The files are separated by month and each has the following columns:
 
-Header	Definition
+Header	    Definition
 Date/Time	  The date and time of the Uber pickup
 Lat	        The latitude of the Uber pickup
 Lon	        The longitude of the Uber pickup
